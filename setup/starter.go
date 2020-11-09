@@ -1,4 +1,4 @@
-package ini
+package setup
 
 type IStarterInterface interface {
 	SetUp()
