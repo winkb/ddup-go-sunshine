@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="140c7d68-7d1f-4588-99e4-23b978da0042" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/setup/starter.go" beforeDir="false" afterPath="$PROJECT_DIR$/setup/starter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/container.go" beforeDir="false" afterPath="$PROJECT_DIR$/provider/container.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

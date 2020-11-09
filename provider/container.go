@@ -1,4 +1,4 @@
-package container
+package provider
 
 type ProviderRegisterFuns []interface{}
 
