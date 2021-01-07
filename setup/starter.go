@@ -18,6 +18,10 @@ func (s *starter) SetUp() {
 	for i := 0; i < len(s.elements); i++ {
 		s.elements[i].SetUp()
 	}
+
+	for i := 0; i < len(s.elements); i++ {
+		s.elements[i].Bootstrap()
+	}
 }
 
 func (s *starter) Register(starter IStarterInterface) {
