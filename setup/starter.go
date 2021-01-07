@@ -2,6 +2,7 @@ package setup
 
 type IStarterInterface interface {
 	SetUp()
+	Bootstrap()
 }
 
 type starter struct {
